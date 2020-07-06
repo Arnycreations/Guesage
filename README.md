@@ -1,2 +1,4 @@
-# Guesage
-This code guesses your age.
+x = 5
+print(x)
+
+
